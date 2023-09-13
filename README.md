@@ -10,6 +10,7 @@ Recently, I've been taking a variety of classes and trying my hand in a number o
 
 ### To-Do
 - #### NumPy, Pandas, Seaborn, Matplotlib
+- #### Statistics and Probability, Calculus 3
 
 
 <!---
