@@ -3,8 +3,14 @@ I'm currently a QC Microbiologist Associate with an passion for learning about d
 
 Recently, I've been taking a variety of classes and trying my hand in a number of things.  In the past year I've taken classes in Linear Algebra, Data Structures and Algorithms, Java Foundations, SQl with Google Big Query, and currently enrolled in a Data Science and Machine learning in R bootcamp.  Please feel free to enjoy the projects that I've been doing and accompany me on my learning journey!
 
-### To do
- - # g
+### Skills
+ - #### Data Processing and Analytics: Python, Jupyter, R studio
+ - #### Data Collection and Storage: SQL, Microsoft Excel
+ - #### Data Visualization: Looker Studio
+
+### To-Do
+- #### NumPy, Pandas, Seaborn, Matplotlib
+
 
 <!---
 pimicah/pimicah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
