@@ -8,6 +8,9 @@ Recently, I've been taking a variety of classes and trying my hand in a number o
  - #### Data Collection and Storage: SQL, Microsoft Excel
  - #### Data Visualization: Looker Studio
 
+### Learning
+- #### Logistical Regression, Neural Nets, Decision Trees, Support Vector, K Nearest, Natural Language Processing
+
 ### To-Do
 - #### NumPy, Pandas, Seaborn, Matplotlib
 - #### Statistics and Probability, Calculus 3
