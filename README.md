@@ -9,7 +9,7 @@ Recently, I've been taking a variety of classes and trying my hand in a number o
  - #### Data Visualization: Looker Studio
 
 ### Learning
-- #### Logistical Regression, Neural Nets, Decision Trees, Support Vector, K Nearest, Natural Language Processing
+- #### Neural Nets, Decision Trees, Support Vector, K Nearest, Natural Language Processing
 
 ### To-Do
 - #### NumPy, Pandas, Seaborn, Matplotlib
